@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Naieemur Rahman 👋
+
+## I'm a Full-Stack JavaScript Developer
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
