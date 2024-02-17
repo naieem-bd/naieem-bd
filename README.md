@@ -1,6 +1,7 @@
-# Hi there, I'm Naieemur Rahman 👋
+## Hi there, I'm Naieemur Rahman 👋
 
-## I'm a Full-Stack JavaScript Developer
+I am a Full-Stack JavaScript Developer ✨ Specializing in React, Next.js, TypeScript, CSS, 
+Responsive Web Design ✨ Proficient in Node.js, Express.js, MongoDB, REST APIs
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
