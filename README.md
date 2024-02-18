@@ -17,10 +17,16 @@
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></a>
 
 ### Markup and Styling
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+<a href="#markup-and-styling"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#markup-and-styling"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#markup-and-styling"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/></a>
+<a href="#markup-and-styling"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+
+### Frontend Technologies
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/angular-0F0F11.svg?style=for-the-badge&logo=angular&logoColor=white"/></a>
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
