@@ -2,10 +2,10 @@
 
 😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
 
-- 📢 Currently working as a Front-End Engineer at [Shakti Foundation](https://www.shakti.org.bd/).
+* Currently working as a Front-End Engineer at [Shakti Foundation](https://www.shakti.org.bd/).
 * With over 7 years of professional experience in the world of software and web development, I have honed my skills and expertise in creating robust and user-friendly digital solutions.
 * I am an enthusiastic learner who thrives on exploring diverse technologies and domains.
-* I love to take on challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
+* Always love to take challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
