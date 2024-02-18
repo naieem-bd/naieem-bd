@@ -33,6 +33,14 @@
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/chakra%20ui-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/daisy%20ui-319795.svg?style=for-the-badge&logo=daisyui&logoColor=white"/></a>
 
+### React Stack and Relatives
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=for-the-badge&logo=zotero&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white"/></a>
+
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
