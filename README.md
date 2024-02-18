@@ -31,7 +31,7 @@
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/chakra%20ui-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/daisy%20ui-319795.svg?style=for-the-badge&logo=daisyui&logoColor=white"/></a>
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/daisy%20ui-#5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white"/></a>
 
 ### React Stack and Relatives
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
