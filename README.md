@@ -26,7 +26,7 @@
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/angular-0F0F11.svg?style=for-the-badge&logo=angular&logoColor=white"/></a>
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></a>
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
