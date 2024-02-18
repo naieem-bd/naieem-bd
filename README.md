@@ -37,7 +37,7 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=for-the-badge&logo=zotero&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/></a>
-<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-3992FF.svg?style=for-the-badge&logo=reactrouter&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white"/></a>
 
