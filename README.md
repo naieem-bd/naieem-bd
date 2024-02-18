@@ -8,7 +8,6 @@
 * Always love to take challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
 
 ## Tools and Technologies
-
 *Here are a couple of insights I've gained throughout my learning journey.*
 
 ### User Interface Design and Prototyping
@@ -16,6 +15,12 @@
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20xd-FF0000.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></a>
+
+### Markup and Styling
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
