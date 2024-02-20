@@ -43,14 +43,12 @@
 ### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
-### Programming Languages
-<a href="#programming-languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
-<a href="#programming-languages"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-<a href="#programming-languages"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-
-### Backend Technologies
-<a href="#backend-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
-<a href="#backend-technologies"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+### Programming Languages & Backend Technologies
+<a href="#programming-languages-&-backend-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+<a href="#programming-languages-&-backend-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
+<a href="#programming-languages-&-backend-technologies"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+<a href="#programming-languages-&-backend-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
+<a href="#programming-languages-&-backend-technologies"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 
 ### Database and Queues
 <a href="#database-and-queues"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
