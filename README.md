@@ -42,7 +42,7 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white"/></a>
 
 ### Mobile Technologies
-<a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
 ### Programming Languages
 <a href="#programming-languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
