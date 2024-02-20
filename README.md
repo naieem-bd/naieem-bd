@@ -9,19 +9,19 @@
 ## Tools and Technologies
 *Here are a couple of insights I've gained throughout my learning journey.*
 
-### User Interface Design and Prototyping
+#### User Interface Design and Prototyping
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20xd-FF0000.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></a>
 
-### Markup and Styling
+#### Markup and Styling
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 
-### Frontend Technologies
+#### Frontend Technologies
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
@@ -40,7 +40,7 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white"/></a>
 
-### Mobile Technologies
+#### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
 ### Programming Languages and Backend Technologies
