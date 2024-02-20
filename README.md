@@ -46,6 +46,10 @@
 <a href="#programming-languages"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
 <a href="#programming-languages"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 
+### Backend Technologies
+<a href="#backend-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
+<a href="#backend-technologies"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
