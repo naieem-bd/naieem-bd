@@ -59,6 +59,10 @@
 <a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <a href="#database-and-queues"><img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
+### Database ORM and ODM
+<a href="#database-orm-and-odm"><img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/></a>
+<a href="#database-orm-and-odm"><img src="https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
