@@ -1,6 +1,6 @@
 # Hi there, I'm Naieemur Rahman 👋
 
-###😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
+### 😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
 
 * Currently working as a Front-End Engineer at [Shakti Foundation](https://www.shakti.org.bd/).
 * With over 7 years of professional experience in the world of software and web development, I have honed my skills and expertise in creating robust and user-friendly digital solutions.
