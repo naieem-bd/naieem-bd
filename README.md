@@ -32,7 +32,7 @@
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/chakra%20ui-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
 <a href="#frontend-technologies"><img src="https://img.shields.io/badge/daisy%20ui-5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white"/></a>
 
-### React Stack and Relatives
+#### React Stack and Relatives
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=for-the-badge&logo=zotero&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/></a>
@@ -43,14 +43,14 @@
 #### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
-### Programming Languages and Backend Technologies
+#### Programming Languages and Backend Technologies
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 
-### Database, Queues, ORM and ODM
+#### Database, Queues, ORM and ODM
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a>
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -58,26 +58,26 @@
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/></a>
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
 
-### Cloud Platforms
+#### Cloud Platforms
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"/></a>
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/></a> 
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white"/></a>
 
-### Automation and Testing Tools
+#### Automation and Testing Tools
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/></a> 
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a> 
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"/></a>
 
-### IDE and Editors
+#### IDE and Editors
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> 
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/></a>
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white"/></a> 
 
-### Version Control
+#### Version Control
 <a href="#version-control"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/></a> 
 <a href="#version-control"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-### Project Management
+#### Project Management
 <a href="#project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/></a> 
 <a href="#project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/></a>
 <a href="#project-management"><img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a> 
