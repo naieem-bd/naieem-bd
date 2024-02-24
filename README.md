@@ -39,6 +39,12 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-3992FF.svg?style=for-the-badge&logo=reactrouter&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white"/></a>
 
+#### Data Visualization
+<a href="#data-visualization"><img src="https://img.shields.io/badge/d3%20js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"/></a>
+<a href="#data-visualization"><img src="https://img.shields.io/badge/chart%20js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"/></a>
+<a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-FF6384.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+<a href="#data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+
 #### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
