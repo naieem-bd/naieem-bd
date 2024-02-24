@@ -13,7 +13,6 @@
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20xd-FF0000.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></a>
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></a>
 
 #### Markup and Styling
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
