@@ -42,7 +42,7 @@
 #### Data Visualization
 <a href="#data-visualization"><img src="https://img.shields.io/badge/d3%20js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/chart%20js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"/></a>
-<a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-FF6384.svg?style=for-the-badge&logo=&logoColor=white"/></a>
+<a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-2C97F3.svg?style=for-the-badge&logo=&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
 
 #### Mobile Technologies
