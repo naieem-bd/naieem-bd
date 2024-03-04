@@ -6,16 +6,12 @@
 * I am an enthusiastic learner who thrives on exploring diverse technologies and domains.
 * Always love to take challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
 
-<a href="https://github.com/naieem-bd">
-  <a href="#some-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=naieem-bd&count_private=true&show_icons=true" height="180" />
-  </a>
-</a>
-<a href="https://github.com/naieem-bd">
-  <a href="#some-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" />
-  </a>
-</a>
+<h3 align="center">
+  <a href="https://naieem-bd.github.io">Portfolio</a> | 
+  <a href="#">Resume</a> | 
+  <a href="https://www.linkedin.com/in/naieem">LinkedIn</a> | 
+</h3>
+
 
 ## Tools and Technologies
 *Here are a couple of insights I've gained throughout my learning journey.*
@@ -77,6 +73,18 @@
 <a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
 <a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
+
+
+<a href="https://github.com/naieem-bd">
+  <a href="#some-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=naieem-bd&count_private=true&show_icons=true" height="180" />
+  </a>
+</a>
+<a href="https://github.com/naieem-bd">
+  <a href="#some-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" />
+  </a>
+</a>
 
 <!--
 #### IDE and Editors
