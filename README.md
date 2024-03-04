@@ -17,18 +17,18 @@
 -->
 
 #### Markup, Styling and Frontend
-<a href="#markup-and-styling"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
-<a href="#markup-and-styling"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
-<a href="#markup-and-styling"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
-<a href="#markup-and-styling"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/mui-007FFF.svg?style=flat-square&logo=mui&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/chakra%20ui-319795.svg?style=flat-square&logo=chakraui&logoColor=white"/></a>
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/daisy%20ui-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/mui-007FFF.svg?style=flat-square&logo=mui&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/chakra%20ui-319795.svg?style=flat-square&logo=chakraui&logoColor=white"/></a>
+<a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/daisy%20ui-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white"/></a>
 
 #### React Stack and Relatives
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
@@ -36,15 +36,13 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-3992FF.svg?style=flat-square&logo=reactrouter&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 
 #### Data Visualization
 <a href="#data-visualization"><img src="https://img.shields.io/badge/d3%20js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/chart%20js-FF6384.svg?style=flat-square&logo=chartdotjs&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-2C97F3.svg?style=flat-square&logo=&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black"/></a>
-
-#### Mobile Technologies
-<a href="#mobile-technologies"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 
 #### Programming Languages and Backend Technologies
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
