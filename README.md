@@ -10,9 +10,9 @@
 *Here are a couple of insights I've gained throughout my learning journey.*
 
 #### User Interface Design and Prototyping
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20xd-FF0000.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></a>
-<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20xd-FF0000.svg?style=flat-square&logo=adobexd&logoColor=white"/></a>
+<a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
 
 #### Markup and Styling
 <a href="#markup-and-styling"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
