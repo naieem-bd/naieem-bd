@@ -6,6 +6,17 @@
 * I am an enthusiastic learner who thrives on exploring diverse technologies and domains.
 * Always love to take challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
 
+<a href="https://github.com/naieem-bd">
+  <a href="#some-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=naieem-bd&count_private=true&show_icons=true" height="180" />
+  </a>
+</a>
+<a href="https://github.com/naieem-bd">
+  <a href="#some-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" />
+  </a>
+</a>
+
 ## Tools and Technologies
 *Here are a couple of insights I've gained throughout my learning journey.*
 
