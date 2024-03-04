@@ -35,37 +35,37 @@
 <a href="#markup-styling-frontend-and-data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black"/></a>
 
 ###### React-Stack and Relatives
-<img src="https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20router-3992FF.svg?style=flat-square&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20router-3992FF.svg?style=flat-square&logo=reactrouter&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
+<a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 
 ###### Programming Languages, Backend Technologies, Database, Queues, ORM and ODM
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white"/>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white"/></a>
+<a href="#programming-languages-backend-technologies-database-queues-orm-and-odm"><img src="https://img.shields.io/badge/mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white"/></a>
 
 ###### Cloud Platforms, Automation, Testing Tools, Version Control and Project Management
-<img src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=Heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white"/> 
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=DigitalOcean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/> 
-<img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=Heroku&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
+<a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
 
 <!--
 #### IDE and Editors
