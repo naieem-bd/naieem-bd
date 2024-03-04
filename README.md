@@ -16,7 +16,7 @@
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
 -->
 
-#####Markup, Styling, Frontend and Data Visualization
+####Markup, Styling, Frontend and Data Visualization
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
@@ -34,7 +34,7 @@
 <a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-2C97F3.svg?style=flat-square&logo=&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black"/></a>
 
-#####React Stack and Relatives
+####React Stack and Relatives
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/></a>
@@ -42,7 +42,7 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 
-#####Programming Languages, Backend Technologies, Database, Queues, ORM and ODM
+####Programming Languages, Backend Technologies, Database, Queues, ORM and ODM
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/></a>
