@@ -74,6 +74,7 @@
 <a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
 <a href="#cloud-platforms-automation-testing-tools-version-control-and-project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
 
+## Some Facts and Stats
 
 <a href="https://github.com/naieem-bd">
   <a href="#some-stats">
@@ -82,7 +83,7 @@
 </a>
 <a href="https://github.com/naieem-bd">
   <a href="#some-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&layout=compact" height="180" />
   </a>
 </a>
 
