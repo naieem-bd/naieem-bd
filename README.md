@@ -83,7 +83,7 @@
 </a>
 <a href="https://github.com/naieem-bd">
   <a href="#some-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&layout=compact" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naieem-bd&hide=html&layout=compact" height="180" />
   </a>
 </a>
 
