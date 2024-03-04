@@ -16,7 +16,7 @@
 <a href="#user-interface-design-and-prototyping"><img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
 -->
 
-##### Markup, Styling, Frontend and Data Visualization
+###### Markup, Styling, Frontend and Data Visualization
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href="#markup-styling-and-frontend"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
