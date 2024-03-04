@@ -34,7 +34,7 @@
 <a href="#data-visualization"><img src="https://img.shields.io/badge/ApexCharts%20js-2C97F3.svg?style=flat-square&logo=&logoColor=white"/></a>
 <a href="#data-visualization"><img src="https://img.shields.io/badge/power%20bi-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black"/></a>
 
-#### React Stack and Relatives
+###### React Stack and Relatives
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/></a>
@@ -42,7 +42,7 @@
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
 <a href="#react-stack-and-relatives"><img src="https://img.shields.io/badge/react%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 
-#### Programming Languages, Backend Technologies, Database, Queues, ORM and ODM
+###### Programming Languages, Backend Technologies, Database, Queues, ORM and ODM
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="#programming-languages-and-backend-technologies"><img src="https://img.shields.io/badge/c%20sharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white"/></a>
@@ -55,15 +55,17 @@
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white"/></a>
 <a href="#database-queues-orm-and-odm"><img src="https://img.shields.io/badge/mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white"/></a>
 
-#### Cloud Platforms
+###### Cloud Platforms, Automation, Testing Tools, Version Control and Project Management
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white"/></a> 
 <a href="#cloud-platforms"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
-
-#### Automation and Testing Tools
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/></a> 
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/></a> 
 <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black"/></a>
+<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a> 
+<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a> 
+<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
 
 <!--
 #### IDE and Editors
@@ -71,12 +73,6 @@
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=Android-Studio&logoColor=white"/></a> 
 -->
-
-#### Version Control and Project Management
-<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a> 
-<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a> 
-<a href="#version-control-and-project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
 
 <!--
 **naieem-bd/naieem-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
