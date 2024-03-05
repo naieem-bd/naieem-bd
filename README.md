@@ -1,4 +1,4 @@
-## Hi there, I'm Naieemur Rahman 👋
+# Hi there, I'm Naieemur Rahman 👋
 
 😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
 
@@ -14,7 +14,7 @@
 </h3>
 
 
-### Tools and Technologies
+## Tools and Technologies
 
 <a href="#tools-and-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#tools-and-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -52,7 +52,7 @@
 
 
 
-### Some Facts and Stats
+## Some Facts and Stats
 
 <a href="https://github.com/naieem-bd">
   <a href="#some-stats">
