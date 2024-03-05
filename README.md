@@ -62,6 +62,9 @@
   </a>
 </a>
 
+
+## Tools and Technologies
+
 <!--
 #### IDE and Editors
 <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> 
