@@ -45,7 +45,7 @@
 <h3 align="center">
   <a href="https://naieem-bd.github.io">Portfolio</a> | 
   <a href="#">Resume</a> | 
-  <a href="https://www.linkedin.com/in/naieem">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/naieem">LinkedIn</a>
 </h3>
 
 
