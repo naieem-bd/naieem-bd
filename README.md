@@ -14,7 +14,7 @@
 </h3>
 
 
-## Some Facts and Stats
+## Tools and Technologies
 
 <a href="#tools-and-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#tools-and-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
