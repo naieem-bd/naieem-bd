@@ -1,39 +1,5 @@
 ## Hi there, I'm Naieemur Rahman 👋
 
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/React%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/SASS-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/MUI-007FFF.svg?style=flat-square&logo=mui&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=flat-square&logo=chakraui&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/ApexCharts.js-2C97F3.svg?style=flat-square&logo=&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=Heroku&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
-<a href="#hi-there-im-naieemur-rahman-"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
-
 😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
 
 * Currently working as a Front-End Engineer at [Shakti Foundation](https://www.shakti.org.bd/).
@@ -64,6 +30,39 @@
 
 
 ## Tools and Technologies
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Zustand-1D4AC2.svg?style=flat-square&logo=zotero&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/React%20Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/SASS-CC6699.svg?style=flat-square&logo=sass&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/MUI-007FFF.svg?style=flat-square&logo=mui&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=flat-square&logo=chakraui&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/ApexCharts.js-2C97F3.svg?style=flat-square&logo=&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=Heroku&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
+<a href="#tools-and-technologies"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure-DevOps&logoColor=white"/></a>
 
 <!--
 #### IDE and Editors
