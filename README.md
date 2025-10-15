@@ -3,7 +3,7 @@
 😎 I am a **Full-Stack JavaScript Developer** with a strong emphasis on *Front-End Engineering*. 🚀 Specializing in *React, Redux, Next.js, CSS, Responsive Web Design*. ✈️ Proficient in *Node.js, Express.js, MongoDB, REST APIs, MERN stack*.
 
 * Currently working as a Senior Software Engineer at [Adventure Dhaka Limited](https://adventurekk.com/).
-* With over 7 years of professional experience in the world of software and web development, I have honed my skills and expertise in creating robust and user-friendly digital solutions.
+* With over 8 years of professional experience in the world of software and web development, I have honed my skills and expertise in creating robust and user-friendly digital solutions.
 * I am an enthusiastic learner who thrives on exploring diverse technologies and domains.
 * Always love to take challenges and enjoy exploring new horizons in software development to solve real-world problems to make life easier for people.
 
