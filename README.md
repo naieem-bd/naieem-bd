@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naieem 👋</h1>
+<h1 align="center">Hi, I'm Naieemur Rahman 👋</h1>
 
 <p align="center">
   <b>Senior Front-End Engineer · React · Next.js · TypeScript</b><br/>
