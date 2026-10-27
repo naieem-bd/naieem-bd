@@ -72,6 +72,9 @@ The kind of work I'm usually trusted with:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+Before SwitchFX, I built travel and ticket-booking products, an ERP serving 500K+ beneficiaries, and led a front-end team delivering ERP and HR products for Japanese clients. Full history on [LinkedIn](https://www.linkedin.com/in/naieem).
+
+<!--
 ## Experience
 
 | Period | Role | Company |
@@ -80,15 +83,7 @@ The kind of work I'm usually trusted with:
 | 2024 – 2025 | Senior Software Engineer | **Adventure Dhaka** (Japan-based) · travel & ticket booking |
 | 2021 – 2024 | Front-End Engineer | **Shakti Foundation** · ERP serving 500K+ beneficiaries |
 | 2017 – 2020 | Front-End Developer → Team Lead | **B-cause Bangladesh** (Japan-based) · ERP, job portal, HR tech |
-
-## Open-source projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [IGDb](https://github.com/naieem-bd/IGDb) | Game database app with search, filters, infinite scroll and caching | React, TypeScript, Zustand, TanStack Query |
-| [ShopBox](https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce) | E-commerce app with auth, cart, orders, reviews and PayPal | MongoDB, Express, React, Node.js |
-| [Nexus REST API](https://github.com/naieem-bd/nexus-REST-API) | Social app API with auth, posts, likes, follows and timelines | Node.js, Express, MongoDB |
-| [Clean Redux Pattern](https://github.com/naieem-bd/Clean-Redux-Pattern) | Modular React state-management boilerplate | React, Redux, Redux Thunk, Axios |
+-->
 
 ## Let's connect
 
