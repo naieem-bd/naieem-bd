@@ -33,6 +33,18 @@ The kind of work I'm usually trusted with:
 
 Before SwitchFX, I built travel and ticket-booking products, an ERP serving 500K+ beneficiaries, and led a front-end team delivering ERP and HR products for Japanese clients. Full history on [LinkedIn](https://www.linkedin.com/in/naieem).
 
+## Open source
+
+> **A note on this profile's activity:** since 2022 my day-to-day work has lived on employer-owned GitHub accounts and private repositories, so it doesn't show up here. The projects below are what I build in the open — this section is growing week by week.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [IGDb](https://github.com/naieem-bd/IGDb) | Game database with search, filtering, infinite scroll and caching | React, TypeScript, TanStack Query, Zustand, Tailwind |
+| [ShopBox](https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce) | Full-stack e-commerce with auth, cart, orders, reviews and PayPal | React, Redux, Node, Express, MongoDB |
+| [nexus REST API](https://github.com/naieem-bd/nexus-REST-API) | Social-media API: auth, posts, likes, follows, Postman collection | Node, Express, MongoDB, JWT |
+| [Clean Redux Pattern](https://github.com/naieem-bd/Clean-Redux-Pattern) | Opinionated folder structure and async pattern for Redux apps | React, Redux Thunk, Axios |
+| [naieem-bd.github.io](https://github.com/naieem-bd/naieem-bd.github.io) | This portfolio site | HTML, CSS, JavaScript |
+
 ## Tech stack
 
 **Core**<br/>
