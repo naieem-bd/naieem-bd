@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Naieemur Rahman 👋</h1>
 
 <p align="center">
-  <b>Senior Front-End Engineer · React · Next.js · TypeScript</b><br/>
+  <!-- <b>Senior Front-End Engineer · React · Next.js · TypeScript</b><br/> -->
+  <b>Senior Software Engineer | React, Next.js, TypeScript, MERN Stack, React Native</b><br/>
   I build production SaaS products: authentication, billing, multi-tenant dashboards and the APIs behind them.<br/>
   Based in Dhaka, Bangladesh (UTC+6) · Working remotely with a US-based team
 </p>
@@ -16,7 +17,7 @@
 
 ## About me
 
-I'm a front-end engineer with **9+ years of experience**. Right now I'm the sole front-end engineer for three production SaaS applications at **SwitchFX Technologies** (Atlanta, USA), where I own the front end from architecture and UI through API integration and production delivery.
+I'm a Software Engineer with **9+ years of experience**. Right now I'm the sole front-end engineer for three production SaaS applications at **SwitchFX Technologies** (Atlanta, USA), where I own the front end from architecture and UI through API integration and production delivery.
 
 The kind of work I'm usually trusted with:
 
